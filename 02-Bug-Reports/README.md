@@ -11,7 +11,7 @@
 | [BUG-012](./BUG-012-Windows-Installer-Link-Broken.md) | Windows Installer Download Link Returns "mirror_unavailable" Error | Functional / Onboarding Blocker |
 | [BUG-018](./BUG-018-No-Prebuilt-Binaries-Onboarding-Friction.md) | High Friction and Installation Failure Due to Lack of Pre-Built Binaries | UX / Onboarding |
 
-### 🟠 Medium
+### 🟡 Medium
 | ID | Title | Category |
 |---|---|---|
 | [BUG-002](./BUG-002-Python-Script-Exit.md) | Unhandled Script Exit on Cold Start in `branch_pr_review.py` | Code Defect / Process Interruption |
@@ -23,7 +23,7 @@
 | [BUG-015](./BUG-015-No-Path-To-Hosted-Repo-Without-Desktop.md) | No Path to Create a Hosted Repository Without the Desktop App or an External Provider | Functional / Onboarding Gap |
 | [BUG-016](./BUG-016-Global-Search-Overrides-Local-Issues-Search.md) | Issues List Incorrectly Filters Based on Global Search Bar | Functional / Search Logic |
 
-### 🟡 Low
+### 🟢 Low
 | ID | Title | Category |
 |---|---|---|
 | [BUG-005](./BUG-005-Weather-Rendering-Failure.md) | Environment and Weather Effects Fail to Render Across Presets | Visual / Rendering |
