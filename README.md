@@ -43,5 +43,5 @@ Structured test suites utilizing Black-Box techniques (Boundary Value Analysis, 
 ---
 
 ## Planned Enhancements
-- [ ] Convert manual API tests into automated test runs using Postman Newman CLI.
+- [ ] Convert manual API tests into automated test runs using Postman.
 - [ ] Build end-to-end web automation scripts using **Playwright / Cypress**.
