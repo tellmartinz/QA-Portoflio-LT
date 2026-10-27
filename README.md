@@ -29,9 +29,8 @@ Exploratory and structural API testing on the **ForkMesh** decentralized protoco
 - Currently building out structured test cases beyond basic CRUD (GET/POST/PUT/DELETE).
 - Will include negative test cases on user identity and repository endpoints.
 
-### 4. 🚧 Test Design & Execution *(Coming soon)*
-Structured test suites utilizing Black-Box techniques (Boundary Value Analysis, Equivalence Partitioning):
-- ForkMesh Authentication & Identity Test Suite — in progress.
+### 4. ✅ [Test Design & Execution](./01-Test-Cases/)
+13 manual test cases for the **ForkMesh** Windows desktop client, from installer download to repository creation, import and cloning. Designed with preconditions, test data, verifiable expected results and evidence requirements — see the [Test Cases Index](./01-Test-Cases/README.md).
 
 ---
 
